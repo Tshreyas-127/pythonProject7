@@ -1,5 +1,6 @@
-streamlit
-pandas
+streamlit~=1.47.0
+pandas~=2.3.1
 scikit-learn
 xgboost
 gunicorn
+numpy~=2.2.6
